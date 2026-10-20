@@ -1,0 +1,13 @@
+product_id,product_name,category,storage_min_c,storage_max_c,shelf_life_days,priority_class,unit,data_source
+PRD001,Fresh Dairy,Chilled,2,8,14,High,units,Synthetic demonstration data
+PRD002,Fresh Produce,Chilled,2,8,10,High,units,Synthetic demonstration data
+PRD003,Ready Meals,Chilled,2,5,7,Critical,units,Synthetic demonstration data
+PRD004,Medical Refrigerated Supplies,Chilled,2,8,90,Critical,units,Synthetic demonstration data
+PRD005,Frozen Vegetables,Frozen,-25,-18,365,Medium,units,Synthetic demonstration data
+PRD006,Frozen Seafood,Frozen,-25,-18,180,High,units,Synthetic demonstration data
+PRD007,Frozen Meals,Frozen,-23,-18,270,High,units,Synthetic demonstration data
+PRD008,Frozen Desserts,Frozen,-25,-18,240,Medium,units,Synthetic demonstration data
+PRD009,Packaged Snacks,Ambient,15,25,180,Low,units,Synthetic demonstration data
+PRD010,Dry Ingredients,Ambient,15,25,270,Medium,units,Synthetic demonstration data
+PRD011,Beverages,Ambient,15,25,180,Low,units,Synthetic demonstration data
+PRD012,Medical Dry Supplies,Ambient,15,25,365,High,units,Synthetic demonstration data

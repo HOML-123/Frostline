@@ -1,0 +1,9 @@
+equipment_id,equipment_type,zone_id,equipment_status,last_maintenance_date,next_maintenance_date,backup_power_available,data_source
+EQ-CH-01,Refrigeration Unit,CH-01,Operational,2026-09-01,2026-11-14,True,Synthetic demonstration data
+EQ-CH-02,Refrigeration Unit,CH-02,Operational,2026-10-10,2026-12-05,True,Synthetic demonstration data
+EQ-FR-01,Refrigeration Unit,FR-01,Operational,2026-09-26,2026-11-28,True,Synthetic demonstration data
+EQ-FR-02,Refrigeration Unit,FR-02,Operational,2026-10-03,2026-11-13,True,Synthetic demonstration data
+EQ-BK-CH,Backup Cooling Unit,BK-CH,Operational,2026-08-29,2027-01-08,True,Synthetic demonstration data
+EQ-BK-FR,Backup Cooling Unit,BK-FR,Operational,2026-10-06,2027-01-14,True,Synthetic demonstration data
+EQ-AM-01,Climate Monitoring Unit,AM-01,Operational,2026-09-14,2026-11-04,False,Synthetic demonstration data
+EQ-AM-02,Climate Monitoring Unit,AM-02,Operational,2026-10-10,2026-11-11,False,Synthetic demonstration data

@@ -1,0 +1,9 @@
+zone_id,zone_name,zone_type,min_temp_c,max_temp_c,capacity_units,is_backup,current_occupancy_units,available_capacity_units,data_source
+CH-01,Chilled Storage A,Chilled,2,8,8000,False,1885,6115,Synthetic demonstration data
+CH-02,Chilled Storage B,Chilled,2,8,8000,False,2314,5686,Synthetic demonstration data
+FR-01,Frozen Storage A,Frozen,-25,-18,8000,False,2592,5408,Synthetic demonstration data
+FR-02,Frozen Storage B,Frozen,-25,-18,8000,False,1921,6079,Synthetic demonstration data
+BK-CH,Backup Chilled Storage,Chilled,2,8,5000,True,1727,3273,Synthetic demonstration data
+BK-FR,Backup Frozen Storage,Frozen,-25,-18,5000,True,1924,3076,Synthetic demonstration data
+AM-01,Ambient Storage A,Ambient,15,25,8000,False,2225,5775,Synthetic demonstration data
+AM-02,Ambient Storage B,Ambient,15,25,8000,False,2206,5794,Synthetic demonstration data
